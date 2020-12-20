@@ -7,3 +7,6 @@ Scarping Specific Hotel Reviews Trip Advisor with Jupyter Python - Jakarta
 - [x] Example Script
 - [x] Link Hotels in Jakarta (-+15 links perregion)
 - [x] Dataset Hotel Review csv (422KB - 1046 Rows)
+
+
+Tested on December 19th 2020
