@@ -1,0 +1,305 @@
+Palmerah 15 hotel
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d308534-Reviews-Hotel_Santika_Premiere_Slipi-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d299555-Reviews-Ibis_Jakarta_Slipi-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d482019-Reviews-Hotel_Menara_Peninsula-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d677224-Reviews-Mega_Anggrek_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d307131-Reviews-Ibis_Jakarta_Tamarin-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3516293-Reviews-Bamboo_Inn_Hotel_Cafe-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d2039236-Reviews-Hotel_Alma-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d299574-Reviews-Mercure_Jakarta_Kota-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d15058977-Reviews-Holiday_Inn_Express_Jakarta_Matraman-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d5232859-Reviews-Blue_Sky_Hotel_Petamburan-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3498308-Reviews-OYO_919_Hotel_Kalisma_Syariah-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d10383356-Reviews-ZEN_Rooms_Palmerah_Barat-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1211503-Reviews-Twin_Plaza_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d7370712-Reviews-Wisma_Rimadi-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4107990-Reviews-ZEN_Rooms_Basic_N1_Tanah_Abang-Jakarta_Java.html#REVIEWS'
+        ]
+
+Kebayoran Baru
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d299578-Reviews-Hotel_Gran_Mahakam_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d7319655-Reviews-Veranda_Hotel_at_Pakubuwono-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d7621601-Reviews-THE_1O1_Jakarta_Sedayu_Darmawangsa-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d13353908-Reviews-Kyriad_Fatmawati_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d8126648-Reviews-Hotel_Grandhika_Iskandarsyah-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12049045-Reviews-Oakwood_Suites_La_Maison_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d551022-Reviews-Ambhara_Hotel_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d14176208-Reviews-Alila_SCBD_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d10767891-Reviews-The_Gunawarman-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d2426242-Reviews-Flat06-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3198969-Reviews-M_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4323730-Reviews-Oak_Tree_Mahakam_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d5018957-Reviews-Hotel_NEO_Tendean_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d11622528-Reviews-Hotel_88_ITC_Fatmawati-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1953973-Reviews-Amos_Cozy_Hotel-Jakarta_Java.html#REVIEWS'
+        ]
+
+Setiabudi
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d6897800-Reviews-Raffles_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d582032-Reviews-Aston_Rasuna-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d15212798-Reviews-Ascott_Sudirman_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d6677774-Reviews-Ascott_Kuningan_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d10391433-Reviews-The_Westin_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d2017728-Reviews-Fraser_Residence_Sudirman_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d6538590-Reviews-The_Grove_Suites-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4016337-Reviews-Citadines_Rasuna_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12214494-Reviews-YELLO_Hotel_Manggarai-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3843023-Reviews-JS_Luwansa_Hotel_and_Convention_Center-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1157099-Reviews-Oakwood_Premier_Cozmo_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d299758-Reviews-JW_Marriott_Hotel_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d302646-Reviews-Gran_Melia_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1477926-Reviews-Aryaduta_Suites_Semanggi-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d9589459-Reviews-Fraser_Place_Setiabudi-Jakarta_Java.html#REVIEWS'
+        ]
+
+Tanah Abang
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d302122-Reviews-Shangri_La_Hotel_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d7182851-Reviews-Fairmont_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d584869-Reviews-Ascott_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12310520-Reviews-Juno_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d450823-Reviews-Century_Park_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d307124-Reviews-The_Sultan_Hotel_Residence_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d2278468-Reviews-Takes_Hotel_Jakarta_a_PHM_Collection-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4798294-Reviews-Kosenda_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d301626-Reviews-Millennium_Hotel_Sirih_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d8621937-Reviews-Holiday_Inn_Express_Jakarta_Wahid_Hasyim-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4563424-Reviews-All_seasons_Jakarta_Thamrin-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d2051622-Reviews-HARRIS_Suites_FX_Sudirman-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d10006002-Reviews-Sawana_Suites-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d17366720-Reviews-Ibis_Styles_Jakarta_Tanah_Abang-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12417943-Reviews-Verse_Luxe_Hotel_Wahid_Hasyim-Jakarta_Java.html#REVIEWS'
+        ]
+
+Menteng
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d481832-Reviews-Pullman_Jakarta_Indonesia-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1845751-Reviews-Morrissey_Hotel_Residences-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1156456-Reviews-Hotel_Indonesia_Kempinski-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d301415-Reviews-Mandarin_Oriental_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d10261762-Reviews-Aone_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d11777162-Reviews-Ashley_Jakarta_Wahid_Hasyim-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d19274462-Reviews-Stanley_Wahid_Hasyim-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d5288357-Reviews-DoubleTree_by_Hilton_Hotel_Jakarta_Diponegoro-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d5992269-Reviews-ARTOTEL_Thamrin_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d17722116-Reviews-Novotel_Jakarta_Cikini-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4913622-Reviews-Fraser_Residence_Menteng_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d14168048-Reviews-Erian_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d17517992-Reviews-Ashley_Sabang-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d307132-Reviews-Grand_Hyatt_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d301917-Reviews-Sari_Pacific_Jakarta-Jakarta_Java.html#REVIEWS'
+        ]
+
+Cilandak
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d10499376-Reviews-Grand_Whiz_Poins_Square-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d10224340-Reviews-Park_5_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d8489216-Reviews-Ra_Premiere_Simatupang-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d17757815-Reviews-Ibis_Styles_Jakarta_Simatupang-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d8591588-Reviews-Swiss_Belinn_Simatupang-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d7808040-Reviews-ASTON_Bellevue_Radio_Dalam-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d557846-Reviews-Hotel_Kristal_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d7186577-Reviews-Little_Amaroossa_Residence-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d15232109-Reviews-Psw_Antasari_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d6929896-Reviews-Pesona_Guest_House_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d10456769-Reviews-Midtown_Residence_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d5308187-Reviews-Amaroossa_Cosmo_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d7391719-Reviews-Maven_Fatmawati-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d11678249-Reviews-Grand_Kasira_by_LA_RIZ-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12574957-Reviews-Topaz_Guest_House-Jakarta_Java.html#REVIEWS'
+        ]
+
+Gambir
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d13824534-Reviews-Yuan_Garden_Pasar_Baru-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12034098-Reviews-HARRIS_Vertu_Hotel_Harmoni-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d11831361-Reviews-YELLO_Hotel_Harmoni-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1205467-Reviews-Mercure_Jakarta_Sabang-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d2017728-Reviews-Fraser_Residence_Sudirman_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d308534-Reviews-Hotel_Santika_Premiere_Slipi-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d307133-Reviews-Aryaduta_Menteng-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3530328-Reviews-Grand_Mercure_Jakarta_Harmoni-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d5212027-Reviews-Citi_M_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3911983-Reviews-Favehotel_Tanah_Abang_Cideng-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1799977-Reviews-Merlynn_Park_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d14094442-Reviews-MaxOneHotels_com_Platinum_Hayam_Wuruk_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d10816170-Reviews-Luminor_Hotel_Pecenongan-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4562833-Reviews-Ibis_Styles_Jakarta_Gajah_Mada-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d8540690-Reviews-Favehotel_Zainul_Arifin-Jakarta_Java.html#REVIEWS'
+        ]
+
+Sawah Besar
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d13824534-Reviews-Yuan_Garden_Pasar_Baru-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d302122-Reviews-Shangri_La_Hotel_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d481832-Reviews-Pullman_Jakarta_Indonesia-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d6762689-Reviews-Hotel_Zuri_Express_Mangga_Dua-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d307132-Reviews-Grand_Hyatt_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3312754-Reviews-Red_Planet_Jakarta_Pasar_Baru-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d10296607-Reviews-POP_Hotel_Pasar_Baru-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12129948-Reviews-Heef_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d301626-Reviews-Millennium_Hotel_Sirih_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d306848-Reviews-Hotel_Borobudur_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3492398-Reviews-Favehotel_Pasar_Baru-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3427042-Reviews-Orchardz_Hotel_Jayakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d6575677-Reviews-D_primahotel_ITC_Mangga_Dua-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d2151561-Reviews-Best_Western_Mangga_Dua_Hotel_and_Residence-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1766636-Reviews-Classic_Hotel-Jakarta_Java.html#REVIEWS'
+        ]
+
+Pasar Minggu
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d7037894-Reviews-Aston_Priority_Simatupang_Hotel_Conference_Center-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3426875-Reviews-The_Pejaten_Suites-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d2615249-Reviews-Sahati_Hotel_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d15247257-Reviews-Rumah_Ayub_Syariah-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d7289346-Reviews-Hotel_Zahabi-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d8464364-Reviews-Madrix_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3783862-Reviews-Hotel_Fiducia-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d5518271-Reviews-Maven_Cilandak_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d20303535-Reviews-Aloft_Jakarta_TB_Simatupang-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4913613-Reviews-Safwah_Bintaro-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d8803634-Reviews-Pejaten_Valley_Residence-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d8775757-Reviews-RedDoorz_Karet_Pedurenan-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d10844771-Reviews-Literooms-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d6353110-Reviews-OYO_154_Griya_Patria_Guest_House-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d21282410-Reviews-Rumanami_Residence-Jakarta_Java.html#REVIEWS'
+        ]
+
+Mampang Prapatan
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d10447589-Reviews-Four_Seasons_Hotel_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d16866089-Reviews-Mercure_Jakarta_Gatot_Subroto-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d6433671-Reviews-POP_Hotel_Kemang_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d562541-Reviews-Grandkemang_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d19886824-Reviews-Sotis_Hotel_Kemang_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d15527441-Reviews-Hotel_Kuretakeso_Kemang-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3249664-Reviews-Liberta_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d634502-Reviews-Park_Regis_Arion-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d633735-Reviews-Kemang_Icon_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d7323344-Reviews-Amaris_La_Codefin_Kemang-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d10260501-Reviews-Hotel_88_Tendean-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d6207104-Reviews-Diradja_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12157825-Reviews-Amaris_Hotel_Mampang-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d20016993-Reviews-Front_One_Residence_Syariah_Mampang-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d2655096-Reviews-Amaris_Hotel_Tendean-Jakarta_Java.html#REVIEWS'
+        ]
+
+Tebet
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d634503-Reviews-HARRIS_Hotel_Tebet-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d306854-Reviews-Wyndham_Casablanca_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d5518272-Reviews-POP_Hotel_Tebet_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d557849-Reviews-Hotel_Bidakara_Grand_Pancoran_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3220172-Reviews-Pomelotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3784778-Reviews-V_Hotel_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d13284099-Reviews-U_Stay_Hotel_Tebet-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d6420741-Reviews-Amaris_Hotel_Tebet-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1598742-Reviews-Sofyan_Hotel_Soepomo-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3931440-Reviews-Sabda_Guest_House_Zen_Rooms-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1723221-Reviews-Puri_Casablanca_Serviced_Apartment-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d13479595-Reviews-The_Loji_Patra_Kuningan-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d7119613-Reviews-The_Home_Tebet-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d15144547-Reviews-W_Home_Express_Tebet-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d11836343-Reviews-RedDoorz_Tebet_Barat-Jakarta_Java.html#REVIEWS'
+        ]
+
+Grogol Petamburan
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d7365889-Reviews-Ibis_Budget_Jakarta_Daan_Mogot-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d301943-Reviews-The_Dharmawangsa_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d307130-Reviews-Hotel_Mulia_Senayan_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d306745-Reviews-Hotel_Ciputra_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d2285994-Reviews-Pullman_Jakarta_Central_Park-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d17399161-Reviews-Aston_Kartika_Grogol_Hotel_Conference_Center-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d634503-Reviews-HARRIS_Hotel_Tebet-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d307124-Reviews-The_Sultan_Hotel_Residence_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d7684155-Reviews-Grand_Tjokro_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d450822-Reviews-Lumire_Hotel_and_Convention_Center-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4600951-Reviews-Amaris_Hotel_Dr_Susilo_Grogol-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d673625-Reviews-Grand_Tropic_Suites_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d6773334-Reviews-Hotel_88_Grogol-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12293306-Reviews-Maple_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4886666-Reviews-The_Falatehan_Hotel_by_Safin-Jakarta_Java.html#REVIEWS'
+        ]
+
+Penjaringan
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d13131262-Reviews-Mercure_Jakarta_Pantai_Indah_Kapuk-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d18854425-Reviews-Swissotel_Jakarta_PIK_Avenue-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3199516-Reviews-Aston_Pluit_Hotel_Residence-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d20253643-Reviews-Oakwood_Apartments_PIK_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4766280-Reviews-Holiday_Inn_Express_Jakarta_Pluit_Citygate-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d5294357-Reviews-Hariston_Hotel_Suites-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3435729-Reviews-Favehotel_Pluit_Junction-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d7389233-Reviews-Ozone_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d11760617-Reviews-Amaris_Hotel_Pluit-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d2298511-Reviews-Golden_Bay_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d6632235-Reviews-ZenRooms_World_Hotel_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d623425-Reviews-Hotel_Zia_Sanno-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3521910-Reviews-Hotel_Permata_Indah_II-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d15037776-Reviews-RedDoorz_Plus_Kapuk_Business_Park-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12426414-Reviews-Grandboutique_Inn-Jakarta_Java.html#REVIEWS'
+        ]
+
+Senen
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d562520-Reviews-Acacia_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4583663-Reviews-Ibis_Jakarta_Senen-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d450822-Reviews-Lumire_Hotel_and_Convention_Center-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3186526-Reviews-Blue_Sky_Pandurata_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d10007071-Reviews-MaxOne_Hotel_at_Kramat-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1534230-Reviews-Oasis_Amir_Hotel_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d2348341-Reviews-Amaris_Hotel_Senen-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d7488993-Reviews-Hotel_Gren_Alia_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12966204-Reviews-Rivoli_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d584853-Reviews-Atlantic_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1893714-Reviews-Hotel_Bintang_Wisata_Mandiri-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3914016-Reviews-Hotel_Mustika_Senen-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3313761-Reviews-OYO_918_Hotel_Senen_Indah-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d11836117-Reviews-RedDoorz_Kwitang-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d8633820-Reviews-Wisma_Shalom_Guesthouse-Jakarta_Java.html#REVIEWS'
+        ]
+
+Jatinegara
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d10556987-Reviews-Harper_M_T_Haryono-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d9454051-Reviews-Teraskita_Hotel_Jakarta_Managed_by_Dafam-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d6887893-Reviews-Best_Western_Premier_The_Hive-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d1784421-Reviews-PARK_HOTEL_Cawang_Jakarta-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d13275429-Reviews-7_Days_Premium_Jatinegara-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d584868-Reviews-OYO_1475_Alia_Matraman_Syariah-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3784803-Reviews-Hotel_Fiducia_Otista_153-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d6210773-Reviews-Zodiak_At_Mt_Haryono-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d11831815-Reviews-RedDoorz_Apartment_Bassura_Cipinang-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d5123034-Reviews-Rumah_Polonia-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d3784922-Reviews-Fiducia_Hotel_Otista_157-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12800014-Reviews-OYO_129_Bassura_City_Apartment-Jakarta_Java.html#REVIEWS',
+        '',
+        '',
+        ''
+        ]
+
+Pademangan
+
+links = ['https://www.tripadvisor.com/Hotel_Review-g294229-d7141329-Reviews-Ibis_Styles_Jakarta_Mangga_Dua_Square_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d578291-Reviews-Novotel_Jakarta_Mangga_Dua_Square-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d299599-Reviews-Mercure_Convention_Center-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d5039765-Reviews-Hotel_Neo_Mangga_Dua_Square-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d5993750-Reviews-Discovery_Ancol-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4341140-Reviews-D_primahotel_WTC_Mangga_Dua-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d557841-Reviews-Putri_Duyung_Resort-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12817507-Reviews-BI_Executive_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d12239757-Reviews-Smarthomm_Hotel-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d584843-Reviews-OYO_Townhouse_2_Hotel_Gunung_Sahari-Jakarta_Java.html#REVIEWS',
+        'https://www.tripadvisor.com/Hotel_Review-g294229-d4408473-Reviews-Twins_Hotel-Jakarta_Java.html#REVIEWS',
+        '',
+        '',
+        '',
+        ''
+        ]
+
+
